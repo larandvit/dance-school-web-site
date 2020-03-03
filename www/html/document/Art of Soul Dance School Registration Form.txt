@@ -1,0 +1,15 @@
+Registration Form
+
+
+Student Name
+
+Date of Birth
+
+Name of a Parent/Guardian
+
+Telephone Number
+
+E-mail Address
+
+Allergies / Medical Conditions 
+

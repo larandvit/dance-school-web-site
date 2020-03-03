@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://artofsouldanceschool.com/view/main.php</loc>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/about.php</loc>
+      <changefreq>weekly</changefreq>
+	  <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/contact.php</loc>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/events.php</loc>
+	  <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/news.php</loc>
+	  <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/schedule.php</loc>
+	  <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/fees.php</loc>
+	  <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>http://artofsouldanceschool.com/view/gallery.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+</urlset>
