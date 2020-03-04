@@ -1,4 +1,4 @@
-# Dance Scholl Web Site
+# Dance School Web Site
 
 ## Description
 
