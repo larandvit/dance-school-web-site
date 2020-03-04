@@ -31,5 +31,5 @@ The main features are
 ## Setup Files
 1. BingSiteAuth.xml - Bing search engine file.
 2. .htaccess - Apache config file to hide file extensions in web browser.
-3. robots.txt - instruction to search engine: (1) don't index service folder and (2) location od site map file.
+3. robots.txt - instruction to search engine: (1) don't index service folder and (2) location of site map file.
 4. sitemap.xml - instruction to search engine which pages to index and how often to do it.
