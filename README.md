@@ -23,13 +23,8 @@ The main features are
 
 ## Setup
 1. Copy www/html folder to your web server
-<<<<<<< HEAD
 2. Run db_scripts/create_sql_objects.sql script to generate a schema with tables and other sql objects
 3. Run db_scrips/data/*.sql scripts to fill out the tables with data
-=======
-2. Run db_scripts/create_sql_objects.sql to generate a schema with tables and other sql objects
-3. Run db_scripts/create_sql_data.sql to fill out the tables with lookup and initial data
->>>>>>> branch 'master' of https://github.com/larandvit/dance-school-web-site.git
 4. Create a user with read-write permissions as per www/config.ini file
 5. Place www/config.ini file in secure location and grant access to your web server
 6. Generate a password for an admin or another user to access CMS
@@ -37,7 +32,6 @@ The main features are
 ## Setup Files
 1. BingSiteAuth.xml - Bing search engine file.
 2. .htaccess - Apache config file to hide file extensions in web browser.
-<<<<<<< HEAD
 3. robots.txt - instruction to search engine: (1) don't index service folder where CMS code located and (2) location od site map file.
 4. sitemap.xml - instruction to search engine which pages to index and how often to do it.
 
@@ -46,7 +40,3 @@ The main features are
 sudo semanage fcontext -a -t httpd_sys_rw_content_t '[folder with pictures]'
 sudo restorecon -v '[folder with pictures]'
 ```
-=======
-3. robots.txt - instruction to search engine: (1) don't index service folder and (2) location of site map file.
-4. sitemap.xml - instruction to search engine which pages to index and how often to do it.
->>>>>>> branch 'master' of https://github.com/larandvit/dance-school-web-site.git
