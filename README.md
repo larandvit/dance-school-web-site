@@ -23,8 +23,8 @@ The main features are
 
 ## Setup
 1. Copy www/html folder to your web server
-2. Run db_scripts/create_sql_objects.sql to generate a schema with tables and other sql objects
-3. Run db_scrips/create_sql_data.sql to fill out the tables with lookup and initial data
+2. Run db_scripts/create_sql_objects.sql script to generate a schema with tables and other sql objects
+3. Run db_scrips/data/*.sql scripts to fill out the tables with data
 4. Create a user with read-write permissions as per www/config.ini file
 5. Place www/config.ini file in secure location and grant access to your web server
 
